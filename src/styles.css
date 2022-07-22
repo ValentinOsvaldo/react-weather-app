@@ -311,7 +311,6 @@ p {
   text-align: center;
   padding: 1rem;
   flex: 1 1 auto;
-  max-width: 150px;
 }
 
 .forecast-card__temp {
