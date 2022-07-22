@@ -20,8 +20,6 @@
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -31,8 +29,6 @@
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
-<!-- OVERVIEW -->
-
 ## Overview
 
 ![preview](https://i.imgur.com/mRe0rKo.png)
@@ -40,21 +36,15 @@
 
 ### Built With
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [weatherApi](https://www.weatherapi.com/)
 
 ## Features
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/mM1UIenRhK808W8qmLWv) was to build an application to complete the given user stories.
 
 ## How To Use
-
-<!-- Example: -->
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
@@ -70,8 +60,6 @@ $ yarn dev
 ```
 
 ## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example: -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 - [Node.js](https://nodejs.org/)
