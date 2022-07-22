@@ -44,6 +44,7 @@
 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
+- [weatherApi](https://www.weatherapi.com/)
 
 ## Features
 
