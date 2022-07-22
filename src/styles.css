@@ -80,7 +80,7 @@ p {
   color: #fff;
   display: flex;
   flex-flow: column nowrap;
-  height: 100vh;
+  min-height: 100vh;
   justify-content: space-between;
   overflow: hidden;
   text-align: center;
@@ -147,7 +147,7 @@ p {
   padding-top: 4rem;
   position: fixed;
   width: 100%;
-  transform: translateX(-100%);
+  transform: translateX(-200%);
   transition: all 0.3s ease-in-out;
   z-index: 3;
 }
@@ -419,6 +419,7 @@ footer a {
   }
 
   .current-sidebar {
+    height: 100vh;
     position: sticky;
     top: 0;
   }
