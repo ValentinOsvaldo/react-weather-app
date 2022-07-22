@@ -63,10 +63,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 $ git clone https://github.com/ValentinOsvaldo/react-weather-app.git
 
 # Install dependencies
-$ npm install
+$ yarn
 
 # Run the app
-$ npm start
+$ yarn dev
 ```
 
 ## Acknowledgements
